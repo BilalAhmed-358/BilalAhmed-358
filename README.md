@@ -2,9 +2,9 @@
 
 **Software Engineer** with **2.5 years of experience**, passionate about engineering, technology, and an avid student of computer science. I love solving real-world problems using the art of software engineering.
 
-🌐 **Portfolio**: [bilalahmed.net](https://www.bilalahmed.net)  
-📧 **Email**: [ahmedkhanbilal358@gmail.com](mailto:ahmedkhanbilal358@gmail.com)  
-💼 **LinkedIn**: [ahmedkhanbilal](https://www.linkedin.com/in/ahmedkhanbilal/)
+🌐 **Portfolio**: <a href="https://www.bilalahmed.net" target="_blank" rel="noopener noreferrer">bilalahmed.net</a>  
+📧 **Email**: <a href="mailto:ahmedkhanbilal358@gmail.com">ahmedkhanbilal358@gmail.com</a>  
+💼 **LinkedIn**: <a href="https://www.linkedin.com/in/ahmedkhanbilal/" target="_blank" rel="noopener noreferrer">ahmedkhanbilal</a>
 
 ---
 
@@ -100,21 +100,37 @@
 
 ---
 
+## 🏆 Certifications
+
+### AWS Certified Cloud Practitioner
+
+**Amazon Web Services Training and Certification**  
+🔗 <a href="https://www.credly.com/earner/earned/badge/32251c8e-4367-4ae9-9d0b-4ded92b17d9a" target="_blank" rel="noopener noreferrer">View on Credly</a>
+
+### AWS Certified Solutions Architect – Associate
+
+**Amazon Web Services Training and Certification**  
+🔗 <a href="https://www.credly.com/earner/earned/badge/d8bf0fd4-f45e-4a63-8853-9569fc6ce6d3" target="_blank" rel="noopener noreferrer">View on Credly</a>
+
+📜 <a href="https://www.credly.com/users/bilal-ahmed-khan-358/badges" target="_blank" rel="noopener noreferrer">View all certifications on Credly</a>
+
+---
+
 ## 🎤 Community & Teaching
 
 ### Stanford Code in Place (2024) 🌍
 
 Volunteered as a **Section Leader** for Stanford University's Code in Place, mentoring new programmers as they wrote their first lines of code.
 
-🔗 [My Code in Place Reflection](https://www.linkedin.com/posts/ahmedkhanbilal_ive-just-wrapped-up-my-tenure-as-a-volunteer-activity-7345696441782145024-NcoB)
+🔗 <a href="https://www.linkedin.com/posts/ahmedkhanbilal_ive-just-wrapped-up-my-tenure-as-a-volunteer-activity-7345696441782145024-NcoB" target="_blank" rel="noopener noreferrer">My Code in Place Reflection</a>
 
 ### DevOps & CI/CD Talks ⚙️
 
 Delivered talks at university on DevOps, CI/CD, and real-world engineering practices, breaking down complex ideas into simple, clear, and practical concepts.
 
-🔗 [DevOps & CI/CD Talk Highlights](https://www.linkedin.com/posts/hackops25_devops-cicd-technology-activity-7321821743994556416-J7N0)
+🔗 <a href="https://www.linkedin.com/posts/hackops25_devops-cicd-technology-activity-7321821743994556416-J7N0" target="_blank" rel="noopener noreferrer">DevOps & CI/CD Talk Highlights</a>
 
-**Interested in inviting me for a talk?** [Connect with me on LinkedIn](https://www.linkedin.com/in/ahmedkhanbilal/)
+**Interested in inviting me for a talk?** <a href="https://www.linkedin.com/in/ahmedkhanbilal/" target="_blank" rel="noopener noreferrer">Connect with me on LinkedIn</a>
 
 ---
 
