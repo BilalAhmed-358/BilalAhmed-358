@@ -105,12 +105,12 @@
 ### AWS Certified Cloud Practitioner
 
 **Amazon Web Services Training and Certification**  
-🔗 <a href="https://www.credly.com/earner/earned/badge/32251c8e-4367-4ae9-9d0b-4ded92b17d9a" target="_blank" rel="noopener noreferrer">View on Credly</a>
+🔗 <a href="https://www.credly.com/badges/32251c8e-4367-4ae9-9d0b-4ded92b17d9a" target="_blank" rel="noopener noreferrer">View on Credly</a>
 
 ### AWS Certified Solutions Architect – Associate
 
 **Amazon Web Services Training and Certification**  
-🔗 <a href="https://www.credly.com/earner/earned/badge/d8bf0fd4-f45e-4a63-8853-9569fc6ce6d3" target="_blank" rel="noopener noreferrer">View on Credly</a>
+🔗 <a href="https://www.credly.com/badges/d8bf0fd4-f45e-4a63-8853-9569fc6ce6d3" target="_blank" rel="noopener noreferrer">View on Credly</a>
 
 📜 <a href="https://www.credly.com/users/bilal-ahmed-khan-358/badges" target="_blank" rel="noopener noreferrer">View all certifications on Credly</a>
 
