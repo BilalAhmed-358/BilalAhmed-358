@@ -146,14 +146,6 @@ I enjoy working across the full stack, focusing on:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalAhmed-358&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0F)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalAhmed-358&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0F)
-
----
-
 ## 🎯 Current Focus
 
 - 🔥 Optimizing web performance and SEO metrics
