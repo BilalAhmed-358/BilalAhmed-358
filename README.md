@@ -15,9 +15,15 @@
 **Apr 2025 – Present**
 
 - Working with Next.js, TypeScript, Kotlin, Terraform, Docker, Jest, and Java
-- Optimized CDN costs by **65%** using CloudFront and Lambda@Edge
-- Improved SEO metrics including First Contentful Paint (FCP) and Largest Contentful Paint (LCP)
-- Refactored and restructured web app components following industry best practices
+- **Led SEO and performance overhaul** that drove **16x increase in organic clicks** (875 → 13.7K) and **20x increase in impressions** (44.4K → 973K), resulting in substantial growth in search visibility and traffic.  
+- **Optimized Core Web Vitals**: reduced desktop LCP by **48%** (4.01s → 2.08s) and mobile LCP by **65%** (6.98s → 2.44s), improved desktop FCP by **59%** (3.34s → 1.36s) and mobile FCP by **68%** (6.16s → 1.95s).  
+- **Enhanced interactivity metrics**: reduced desktop INP by **45%** (243ms → 134ms) and mobile INP by **50%** (489ms → 241ms), achieving Google’s “good” thresholds across all major performance indicators.  
+- **Reduced CDN costs by 75%** through CloudFront migration, AWS Lambda@Edge image resizing pipeline, and conversion to AVIF/WebP formats, while implementing client/server-side caching strategies.  
+- **Architected AWS WAF automated bot filtering system** with intelligent threat detection, replacing manual user-agent matching with a resilient, rule-based approach that prevents spoofing while maintaining optimized handling for SEO crawlers.  
+- **Built real-time web-vitals monitoring pipeline** with Grafana dashboards, exporting page-level metrics (LCP, FCP, INP) segmented by page type to enable rapid performance issue identification and resolution.  
+- **Identified content team productivity bottleneck** limiting attribute updates to 30 products per day through manual processes; engineered **bulk-upload capability** in catalog module that streamlined workflows, enabling 500+ products per day and dramatically improving team efficiency and user experience.  
+- **Analyzed and optimized DNS TTL values** to minimize DNS discovery time, reducing cache misses and achieving **33% improvement in TTFB** on desktop.  
+- **Embraced modern web development practices** by implementing Next.js SSG, leveraging React 19’s cutting-edge hooks (`useTransition`, `useDeferredValue`), utilizing Intersection Observer API for optimized lazy-loading, and engineering custom Webpack configurations for advanced CSS minification and code-splitting.
 
 ### Software Engineer @ ASTERA SOFTWARE
 
