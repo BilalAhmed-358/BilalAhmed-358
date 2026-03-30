@@ -10,7 +10,7 @@
 
 ## 💼 Work Experience
 
-### Senior Software Engineer II @ BAZAAR TECHNOLOGIES
+### Senior Software Engineer @ BAZAAR TECHNOLOGIES
 
 **Apr 2025 – Mar 2026**
 -	Optimized a data ingestion pipeline built on Apache Airflow by transitioning from page-level data retrieval to structured API-based access for e-commerce platforms.
