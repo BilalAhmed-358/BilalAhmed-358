@@ -10,10 +10,11 @@
 
 ## 💼 Work Experience
 
-### Software Engineer II @ BAZAAR TECHNOLOGIES
+### Senior Software Engineer II @ BAZAAR TECHNOLOGIES
 
-**Apr 2025 – Present**
-
+**Apr 2025 – Mar 2026**
+-	Optimized a data ingestion pipeline built on Apache Airflow by transitioning from page-level data retrieval to structured API-based access for e-commerce platforms.
+-	Reduced pipeline runtime from 3 hours to 50 minutes (~66% improvement), significantly enhancing data freshness and system scalability.
 - Working with Next.js, TypeScript, Kotlin, Terraform, Docker, Jest, and Java
 - **Led SEO and performance overhaul** that drove **16x increase in organic clicks** (875 → 13.7K) and **20x increase in impressions** (44.4K → 973K), resulting in substantial growth in search visibility and traffic.  
 - **Optimized Core Web Vitals**: reduced desktop LCP by **48%** (4.01s → 2.08s) and mobile LCP by **65%** (6.98s → 2.44s), improved desktop FCP by **59%** (3.34s → 1.36s) and mobile FCP by **68%** (6.16s → 1.95s).  
