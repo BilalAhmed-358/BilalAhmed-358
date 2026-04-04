@@ -13,18 +13,50 @@
 ### Senior Software Engineer @ BAZAAR TECHNOLOGIES
 
 **Apr 2025 – Mar 2026**
--	Optimized a data ingestion pipeline built on Apache Airflow by transitioning from page-level data retrieval to structured API-based access for e-commerce platforms.
--	Reduced pipeline runtime from 3 hours to 50 minutes (~66% improvement), significantly enhancing data freshness and system scalability.
-- Working with Next.js, TypeScript, Kotlin, Terraform, Docker, Jest, and Java
-- **Led SEO and performance overhaul** that drove **16x increase in organic clicks** (875 → 13.7K) and **20x increase in impressions** (44.4K → 973K), resulting in substantial growth in search visibility and traffic.  
-- **Optimized Core Web Vitals**: reduced desktop LCP by **48%** (4.01s → 2.08s) and mobile LCP by **65%** (6.98s → 2.44s), improved desktop FCP by **59%** (3.34s → 1.36s) and mobile FCP by **68%** (6.16s → 1.95s).  
-- **Enhanced interactivity metrics**: reduced desktop INP by **45%** (243ms → 134ms) and mobile INP by **50%** (489ms → 241ms), achieving Google’s “good” thresholds across all major performance indicators.  
-- **Reduced CDN costs by 75%** through CloudFront migration, AWS Lambda@Edge image resizing pipeline, and conversion to AVIF/WebP formats, while implementing client/server-side caching strategies.  
-- **Architected AWS WAF automated bot filtering system** with intelligent threat detection, replacing manual user-agent matching with a resilient, rule-based approach that prevents spoofing while maintaining optimized handling for SEO crawlers.  
-- **Built real-time web-vitals monitoring pipeline** with Grafana dashboards, exporting page-level metrics (LCP, FCP, INP) segmented by page type to enable rapid performance issue identification and resolution.  
-- **Identified content team productivity bottleneck** limiting attribute updates to 30 products per day through manual processes; engineered **bulk-upload capability** in catalog module that streamlined workflows, enabling 500+ products per day and dramatically improving team efficiency and user experience.  
-- **Analyzed and optimized DNS TTL values** to minimize DNS discovery time, reducing cache misses and achieving **33% improvement in TTFB** on desktop.  
-- **Embraced modern web development practices** by implementing Next.js SSG, leveraging React 19’s cutting-edge hooks (`useTransition`, `useDeferredValue`), utilizing Intersection Observer API for optimized lazy-loading, and engineering custom Webpack configurations for advanced CSS minification and code-splitting.
+Worked on improving performance, SEO, and system efficiency across Bazaar’s web platform. A lot of this started from things not scaling well — slow pages, limited search visibility, and inefficiencies across the stack — and gradually turned into a broader effort to improve how the system behaves under real-world load.
+
+### Performance & Core Web Vitals
+- Improved Core Web Vitals across the board:
+  - Reduced **LCP** from ~4.0s → ~2.0s (desktop) and ~7.0s → ~2.4s (mobile)
+  - Improved **FCP** by ~59% (desktop) and ~68% (mobile)
+  - Reduced **INP** by ~45% (desktop) and ~50% (mobile), achieving “good” thresholds
+- Implemented optimizations across rendering strategy, asset loading, caching, and code-splitting
+- Leveraged Next.js SSG, React 19 features (`useTransition`, `useDeferredValue`), and Intersection Observer for lazy loading
+
+### SEO & Growth
+- Led SEO and performance overhaul resulting in:
+  - **16× increase in organic clicks** (875 → 13.7K)
+  - **20× increase in impressions** (44K → 973K)
+- Improved crawlability and page structure, reducing indexing delays and content update bottlenecks
+
+### Infrastructure & Cost Optimization
+- Reduced CDN costs by **~75%** through:
+  - CloudFront optimization
+  - Lambda@Edge image resizing pipeline
+  - Migration to AVIF/WebP formats
+- Implemented client/server-side caching strategies to reduce redundant requests
+- Optimized DNS TTL values, improving cache hit rates and reducing **TTFB by ~33%**
+
+### Data Pipelines & Backend Systems
+- Optimized Apache Airflow-based ingestion pipeline:
+  - Transitioned from page scraping to structured API-based ingestion
+  - Reduced runtime from **3 hours → 50 minutes (~66% improvement)**
+- Improved system scalability and data freshness across ingestion workflows
+
+### Internal Tooling & Observability
+- Built real-time web vitals monitoring pipeline with Grafana dashboards:
+  - Tracked LCP, FCP, INP across page types
+  - Enabled faster debugging and performance regression detection
+- Identified content workflow bottleneck and implemented bulk catalog upload system:
+  - Increased throughput from **~30 → 500+ products/day**
+
+### Security & Reliability
+- Designed AWS WAF-based bot filtering system:
+  - Replaced fragile user-agent matching with rule-based detection
+  - Prevented spoofing while maintaining SEO crawler compatibility
+
+### Tech Stack
+Next.js, React, TypeScript, Kotlin, AWS, Terraform, Docker, Jest, Java, Apache Airflow
 
 ### Software Engineer @ ASTERA SOFTWARE
 
