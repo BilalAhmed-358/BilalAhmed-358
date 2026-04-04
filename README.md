@@ -14,7 +14,7 @@
 
 **Apr 2025 – Mar 2026**
 
-Worked on improving performance, SEO, and system efficiency across Bazaar’s web platform. A lot of this started from things not scaling well — slow pages, limited search visibility, and inefficiencies across the stack — and gradually turned into a broader effort to improve how the system behaves under real-world load.
+Worked on improving performance, SEO, and system efficiency across Bazaar’s web platform. A lot of this started from things not scaling well, slow pages, limited search visibility, and inefficiencies across the stack and gradually turned into a broader effort to improve how the system behaves under real-world load.
 
 ### Performance & Core Web Vitals
 - Improved Core Web Vitals across the board:
