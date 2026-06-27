@@ -2,7 +2,7 @@
 
 **Software Engineer** with **2.5 years of experience**, passionate about engineering, technology, and an avid student of computer science. I love solving real-world problems using the art of software engineering.
 
-🌐 **Portfolio**: <a href="https://www.bilalahmed.net" target="_blank" rel="noopener noreferrer">bilalahmed.net</a>  
+🌐 **Portfolio**: <a href="https://www.bilalahmedkhan.com" target="_blank" rel="noopener noreferrer">bilalahmed.net</a>  
 📧 **Email**: <a href="mailto:ahmedkhanbilal358@gmail.com">ahmedkhanbilal358@gmail.com</a>  
 💼 **LinkedIn**: <a href="https://www.linkedin.com/in/ahmedkhanbilal/" target="_blank" rel="noopener noreferrer">ahmedkhanbilal</a>
 
